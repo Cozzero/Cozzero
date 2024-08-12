@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cozzero
+- 👋 Hi, I’m @You Raj Bhattarai
 - 👀 I’m interested in new modules, tools, gadget, and very interesting selfmade inventions, cybersecurity and networking.
 - 🌱 I’m currently learning python, using IOT, handling raspberry pi and arduinos-uno, variours network adapters operations. 
 - 💞️ I’m looking to collaborate on many major and minor projects through out the year.
